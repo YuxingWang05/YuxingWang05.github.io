@@ -9,9 +9,6 @@ layout: page
 Here is **Yuxing Wang (王宇星)**.<br>
 
 
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
-
 ---
 
 ## Research Interests
