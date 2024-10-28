@@ -13,7 +13,7 @@ Here is **Yuxing Wang (王宇星)**.<br>
 
 ## Research Interests
 
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
+<!-- **I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!** -->
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Molecular Communication
