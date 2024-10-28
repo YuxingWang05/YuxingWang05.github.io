@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuxingwang.com/yuxingwang.jpg" class="floatpic">
+<img src="https://yuxingwang05.github.io/yuxingwang.jpg" class="floatpic">
 
 Here is **Yuxing Wang (王宇星)**.<br>
 
